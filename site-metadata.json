@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "orange",
     "header": {
-        "logo_img_alt": "Spokepost Logo",
+        "logo_img_alt": "SpokePost Logo",
         "has_nav": true,
         "nav_links": [
             {
